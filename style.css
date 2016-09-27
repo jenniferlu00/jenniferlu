@@ -1,3 +1,59 @@
-p{
-  color:aqua;
+.IG{
+    position:relative;
+    left:700px;
+    bottom:60px;
+    
+    
+    
+}
+.FB{
+    position:relative;
+        left: 630px;
+    bottom:110px;
+    }
+::selection {
+    color: white;
+    background: black;
+}
+html{
+    background-color: transparent;
+    
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 65px;
+    color: black
+    
+}
+.intro{
+    font-family: monospace;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-bottom:15px ;
+    padding-right: 10px;;
+    padding-top: 10px;
+    color: white
+}
+ul{
+    font-family: monospace;
+    font-size: 20px;
+    color:white;
+    padding-bottom:15px ;
+    padding-right: 10px;;
+    padding-top: 10px;
+}
+h2{
+    font-family: monospace;
+    font-size: 35px;
+    padding-bottom: ;
+    padding-left: 15px ;
+    padding-right: ;
+    padding-top: ;
+    color:hotpink
+}
+
+div{
+    background-image: url(http://img02.deviantart.net/cbb6/i/2011/193/c/4/texture_3b_by_jakezdaniel-d1sbrlg.jpg);
 }
